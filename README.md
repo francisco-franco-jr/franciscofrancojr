@@ -13,16 +13,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Francisco Franco | LinkedIn" width="22px" src="https://www.linkedin.com/in/francisco-franco-696324280/"/>][linkedin]
-
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/francisco-franco-696324280/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
