@@ -1,20 +1,14 @@
 <h1>Welcome, I'm Francisco! <br/><a href="https://github.com/francisco-franco-jr">Cybersecurity Specialist</a>, <a href="https://www.linkedin.com/in/francisco-franco-696324280/">Cybersecurity Student, aspiring professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 IT / Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Microsoft Azure SIEM Setup and Attack Map</b>
   - [fill in the blank](https://www.google.com)
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- 
-- 
-
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://www.linkedin.com/in/francisco-franco-696324280/
-
+- [linkedin](https://www.linkedin.com/in/francisco-franco-696324280/)
 <!--
 
 Here are some ideas to get you started:
